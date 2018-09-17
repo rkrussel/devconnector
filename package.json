@@ -1,0 +1,16 @@
+{
+    "name": "devconnector",
+    "version": "1.0.0",
+    "description": "A project to connect developers",
+    "main": "server.js",
+    "scripts": {
+        "start": "npm server.js",
+        "server": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "rich",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^1.18.4"
+    }
+}
